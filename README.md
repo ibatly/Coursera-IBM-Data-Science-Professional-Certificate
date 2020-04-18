@@ -13,7 +13,7 @@ The courses enlisted in this specialization are as follows:
 
 - [x] __Python for Data Science and AI__
 
-- [x]__Databases and SQL for Data Science__
+- [x] __Databases and SQL for Data Science__
 
 - [x] __Data Analysis with Python__
 
